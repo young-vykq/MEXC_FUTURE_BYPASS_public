@@ -6,7 +6,7 @@ Full access to the project includes source code, detailed documentation, setup a
 
 ## How to Get Access?
 
-To gain full access to the private repository, contact us via Telegram: [@young_vykq](https://t.me/young_vykqq).  
+To gain full access to the private repository, contact us via Telegram: [@young_vykqq](https://t.me/young_vykqq).  
 Access is available on a paid basis.
 
 ---
