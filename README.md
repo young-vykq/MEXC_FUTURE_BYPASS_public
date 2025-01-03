@@ -1,6 +1,6 @@
-# MEXC Futures Trading Bot
+# MEXC Futures Trading Code
 
-This repository provides basic information about **MEXC Futures Trading Bot**, a private project for automating trading on MEXC Futures.
+This repository provides basic information about **MEXC Futures Trading Code**, a private project for automating trading on MEXC Futures.
 
 Full access to the project includes source code, detailed documentation, setup and usage instructions, and a complete list of supported features. The repository also contains a demo code file provided by MEXC support, adapted for working with the unavailable official API.
 
@@ -28,7 +28,7 @@ The private project includes the following features:
 The private project provides the following REST API endpoints for management:
 
 1. **Retrieve Balance**
-   - `GET /api/balance`
+   - `GET /api/balance/asset/USDT`
    - Example response:
      ```json
      { "result": 51990.97 }
