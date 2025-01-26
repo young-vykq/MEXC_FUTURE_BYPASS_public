@@ -9,6 +9,12 @@ This project offers a Python and Node.js-based client for interacting with the M
 - REST API support for external integrations.
 - Workaround for the unavailable official API through alternative methods.
 
+## Developers
+
+@vkidik
+- [GitHub](https://github.com/vkidik/)
+- [Telegram](https://t.me/young_vykqq) 
+
 ## Repository Access
 **Full access to this private repository is available on a paid basis. For inquiries, contact:**
 - Telegram: [@young_vykqq](https://t.me/young_vykqq)
