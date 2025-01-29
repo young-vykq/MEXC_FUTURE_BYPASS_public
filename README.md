@@ -11,6 +11,8 @@ This project offers a Python and Node.js-based client for interacting with the M
 
 ## Price
 ### 200$
+#### TON:
+UQBi_7B2ojQuSFCc9R5rDzyoL-tiPE9CagLobnI1IYrBzJJC
 
 ## Developers
 
