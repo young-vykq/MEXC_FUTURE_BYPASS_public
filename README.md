@@ -9,6 +9,9 @@ This project offers a Python and Node.js-based client for interacting with the M
 - REST API support for external integrations.
 - Workaround for the unavailable official API through alternative methods.
 
+## Price
+### 200$
+
 ## Developers
 
 @vkidik
