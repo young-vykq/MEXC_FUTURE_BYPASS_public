@@ -10,7 +10,7 @@ This project offers a Python and Node.js-based client for interacting with the M
 - Workaround for the unavailable official API through alternative methods.
 
 ## Price
-### 200$
+### 500$
 #### TON:
 UQBi_7B2ojQuSFCc9R5rDzyoL-tiPE9CagLobnI1IYrBzJJC
 
